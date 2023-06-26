@@ -159,6 +159,36 @@ Please note, the following list is just a collection of papers in no particular 
 
 ### [Partitioning and Floorplanning](#content)
 ## [GNNs for Hardware Security](#content)
+
+- **Graph Neural Network based Hardware Trojan Detection at Intermediate Representative for SoC Platforms.** In Proceedings of the Great Lakes Symposium on VLSI 2022 (GLSVLSI), 2022. [paper](https://dl.acm.org/doi/10.1145/3526241.3530827)
+
+    *Weimin Fu, Honggang Yu, Orlando Arias, Kaichen Yang, Yier Jin, Tuba Yavuz, Xiaolong Guo.*
+
+- **GNN4IP: Graph Neural Network for Hardware Intellectual Property Piracy Detection.** In 2021 58th ACM/IEEE Design Automation Conference (DAC), 2021. [paper](https://ieeexplore.ieee.org/document/9586150)
+
+    *Rozhin Yasaei, Shih-Yuan Yu, Emad Kasaeyan Naeini, Mohammad Abdullah Al Faruque.*
+
+- **Graph Learning-Based Arithmetic Block Identification.** In 2021 IEEE/ACM International Conference On Computer Aided Design (ICCAD), 2021. [paper](https://ieeexplore.ieee.org/document/9643581)
+
+    *Zhuolun He, Ziyi Wang, Chen Bai, Haoyu Yang, Bei Yu.*
+
+- **Graph Neural Network based Netlist Operator Detection under Circuit Rewriting.** In Proceedings of the Great Lakes Symposium on VLSI 2022 (GLSVLSI), 2022. [paper](https://dl.acm.org/doi/10.1145/3526241.3530330)
+
+    *Guangwei Zhao, Kaveh Shamsi.*
+
+- **Functionality matters in netlist representation learning.** In Proceedings of the 59th ACM/IEEE Design Automation Conference (DAC), 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3489517.3530410)
+
+    *Ziyi Wang, Chen Bai, Zhuolun He, Guangliang Zhang, Qiang Xu, Tsung-Yi Ho, Bei Yu, Yu Huang.*
+
+- **ReIGNN: State register identification using graph neural networks for circuit reverse engineering.** In 2021 IEEE/ACM International Conference On Computer Aided Design (ICCAD), 2021. [paper](https://arxiv.org/abs/2112.00806)
+
+    *Subhajit Dutta Chowdhury, Kaixin Yang, Pierluigi Nuzzo.*
+
+- **Estimating the circuit de-obfuscation runtime based on graph deep learning.** In 2020 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2020. [paper](https://ieeexplore.ieee.org/document/9116544)
+
+    *Zhiqian Chen, Gaurav Kolhe, Setareh Rafatirad, Chang-Tien Lu, Sai Manoj P.D., Houman Homayoun, Liang Zhao.*
+
+
 ### [Attack on Logic Obfuscation](#content)
 - **GNNUnlock: Graph Neural Networks-based Oracle-less Unlocking Scheme for Provably Secure Logic Locking.** Design, Automation & Test in Europe Conference & Exhibition (DATE), 2021. [paper](https://ieeexplore.ieee.org/document/9474039), [code](https://github.com/DfX-NYUAD/GNNUnlock)
 
