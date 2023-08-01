@@ -70,11 +70,11 @@ Please note, the following list is just a collection of papers in no particular 
 
     *Daniela Sánchez Lopera, Lorenzo Servadei, Gamze Naz Kiprit, Robert Wille, Wolfgang Ecker.*
 
-- **Why are Graph Neural Networks Effective for EDA Problems? (Invited Paper).** IEEE/ACM International Conference On Computer Aided Design (ICCAD) , 2022.0.
+- **Why are Graph Neural Networks Effective for EDA Problems? (Invited Paper).** IEEE/ACM International Conference On Computer Aided Design (ICCAD) , 2022.0. [paper](https://dl.acm.org/doi/abs/10.1145/3508352.3561093)
 
     *Haoxing Ren, Siddhartha Nath, Yanqing Zhang, Hao Chen, Mingjie Liu.*
 
-- **On Advancing Physical Design using Graph Neural Networks  (Invited Paper).** IEEE/ACM International Conference On Computer Aided Design (ICCAD) , 2022.0.
+- **On Advancing Physical Design using Graph Neural Networks  (Invited Paper).** IEEE/ACM International Conference On Computer Aided Design (ICCAD) , 2022.0. [paper](https://gtcad.gatech.edu/www/papers/Yi-Chen-ICCAD22.pdf)
 
     *Yi-Chen Lu, Sung Kyu Lim.*
 
