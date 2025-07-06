@@ -78,11 +78,11 @@ Please note, the following list is just a collection of papers in no particular 
 
 ## [GNNs for EDA](#content)
 ### [Behavioral and Logic Design](#content)
-- **IronMan-Pro: Multiobjective Design Space Exploration in HLS via Reinforcement Learning and Graph Neural Network-Based Modeling.** IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022. [paper](https://ieeexplore.ieee.org/document/9803218)
+- **IronMan-Pro: Multiobjective Design Space Exploration in HLS via Reinforcement Learning and Graph Neural Network-Based Modeling.** IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022. [paper](https://ieeexplore.ieee.org/document/9803218). [code](https://github.com/lydiawunan/IronMan). [dataset](https://github.com/lydiawunan/IronMan/tree/main/DATASET).
 
     *Nan Wu, Yuan Xie, Cong Hao.*
   
-- **IronMan: GNN-assisted Design Space Exploration in High-Level Synthesis via Reinforcement Learning.** Great Lakes Symposium on VLSI (GLVLSI), 2021. [paper](https://dl.acm.org/doi/10.1145/3453688.3461495)
+- **IronMan: GNN-assisted Design Space Exploration in High-Level Synthesis via Reinforcement Learning.** Great Lakes Symposium on VLSI (GLVLSI), 2021. [paper](https://dl.acm.org/doi/10.1145/3453688.3461495). [code](https://github.com/lydiawunan/IronMan). [dataset](https://github.com/lydiawunan/IronMan/tree/main/DATASET).
 
     *Nan Wu, Yuan Xie, Cong Hao.*
 
@@ -98,7 +98,7 @@ Please note, the following list is just a collection of papers in no particular 
 
     *Daniela Sánchez Lopera, Wolfgang Ecker.* 
 
-- **DeepGate: Learning Neural Representations of Logic Gates.** Proceedings of the 59th ACM/IEEE Design Automation Conference (DAC), 2022. [paper](https://dl.acm.org/doi/10.1145/3489517.3530497)
+- **DeepGate: Learning Neural Representations of Logic Gates.** Proceedings of the 59th ACM/IEEE Design Automation Conference (DAC), 2022. [paper](https://dl.acm.org/doi/10.1145/3489517.3530497). [code.](https://github.com/cure-lab/DeepGate) [dataset.](https://github.com/cure-lab/DeepGate/blob/main/DATASETS.md)
 
     *Min Li, Sadaf Khan, Zhengyuan Shi, Naixing Wang, Huang Yu, Qiang Xu.* 
 
@@ -106,7 +106,7 @@ Please note, the following list is just a collection of papers in no particular 
 
     *Sadaf Khan, Zhengyuan Shi, Min Li, Qiang Xu.*
 
-- **Versatile Multi-Stage Graph Neural Network for Circuit Representation.** Advances in Neural Information Processing Systems (NeurIPS), 2022. [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/7fa548155f40c014372146be387c4f6a-Paper-Conference.pdf)
+- **Versatile Multi-Stage Graph Neural Network for Circuit Representation.** Advances in Neural Information Processing Systems (NeurIPS), 2022. [paper.](https://proceedings.neurips.cc/paper_files/paper/2022/file/7fa548155f40c014372146be387c4f6a-Paper-Conference.pdf) [code.](https://github.com/PKUterran/NetlistGNN) [dataset 1.](https://www.ispd.cc/contests/11/ispd2011_contest.html) [dataset 2.](https://archive.sigda.org/dac2012/contest/dac2012_contest_benchmarks.html)
 
     *Shuwen Yang, Zhihao Yang, Dong Li, Yingxue Zhang, Zhanguang Zhang, Guojie Song, Jianye Hao.* 
 
@@ -123,7 +123,7 @@ Please note, the following list is just a collection of papers in no particular 
 
     *Xinyi Zhou, Junjie Ye, Chak-Wa Pui, Kun Shao, Guangliang Zhang, Bin Wang, Jianye Hao, Guangyong Chen, Pheng Ann Heng.* 
 
-- **LOSTIN: Logic Optimization via Spatio-Temporal Information with Hybrid Graph Models.** Application-Specific Systems, Architectures and Processors (ASAP), 2022. [paper](https://ieeexplore.ieee.org/document/9912015)
+- **LOSTIN: Logic Optimization via Spatio-Temporal Information with Hybrid Graph Models.** Application-Specific Systems, Architectures and Processors (ASAP), 2022. [paper.](https://ieeexplore.ieee.org/document/9912015) [code.](https://github.com/sharc-lab/LOSTIN) [dataset.](https://github.com/lsils/benchmarks)
 
     *Nan Wu, Jiwon Lee, Yuan Xie, Cong Hao.* 
 
@@ -140,7 +140,7 @@ Please note, the following list is just a collection of papers in no particular 
 
     *Yi-Chen Lu, Sai Surya Kiran Pentapati, Lingjun Zhu, Kambiz Samadi, Sung Kyu Lim.* 
 
-- **A Graph Placement Methodology for Fast Chip Design.** Nature, 2021. [paper](https://www.nature.com/articles/s41586-021-03544-w)
+- **A Graph Placement Methodology for Fast Chip Design.** Nature, 2021. [paper.](https://www.nature.com/articles/s41586-021-03544-w) [code.](https://github.com/google-research/circuit_training)
 
     *Azalia Mirhoseini, Anna Goldie, Mustafa Yazgan, Joe Wenjie Jiang, Ebrahim Songhori, Shen Wang, Young-Joon Lee, Eric Johnson, Omkar Pathak, Azade Nova, Jiwoo Pak, Andy Tong, Kavya Srinivasa, William Hang, Emre Tuncer, Quoc V. Le, James Laudon, Richard Ho, Roger Carpenter, Jeff Dean.* 
 
@@ -148,13 +148,13 @@ Please note, the following list is just a collection of papers in no particular 
 
     *Yiting Liu, Ziyi Ju, Zhengming Li, Mingzhi Dong, Hai Zhou, Jia Wang, Fan Yang, Xuan Zeng, Li Shang.* 
 
-- **GraphClusNet: A Hierarchical Graph Neural Network for Recovered Circuit Netlist Partitioning.** IEEE Transactions on Artificial Intelligence, 2023. [paper](https://ieeexplore.ieee.org/document/9858021)
+- **GraphClusNet: A Hierarchical Graph Neural Network for Recovered Circuit Netlist Partitioning.** IEEE Transactions on Artificial Intelligence, 2023. [paper.](https://ieeexplore.ieee.org/document/9858021/) [code.](https://github.com/hongxuenong/GraphClusNet) [dataset 1.](https://opencores.org/projects/8051) [dataset 2.](https://github.com/stnolting/neorv32) [dataset 3.](https://opencores.org/projects/aoocs) [dataset 4.](https://opencores.org/projects/openfpu64)
 
-    *Xuenong Hong, Tong Lin, Yiqiong Shi, Bah Hwee Gwee.* 
+  *Xuenong Hong, Tong Lin, Yiqiong Shi, Bah Hwee Gwee.*
 
-- **DeepTH: Chip Placement with Deep Reinforcement Learning Using a Three-Head Policy Network.** Design, Automation & Test in Europe Conference & Exhibition (DATE), 2023. [paper](https://ieeexplore.ieee.org/document/10137100)
-
-    *Dengwei Zhao, Shuai Yuan, Yanan Sun, Shikui Tu, Lei Xu.* 
+- **DeepTH: Chip Placement with Deep Reinforcement Learning Using a Three-Head Policy Network.** Design, Automation & Test in Europe Conference & Exhibition (DATE), 2023. [paper.](https://ieeexplore.ieee.org/document/10137100) [code.](https://github.com/CMACH508/DeepTH) [dataset 1.](https://pan.baidu.com/s/1uDlRzpX209Kw3FjESCtzyA?pwd=feb0) [dataset 2.](https://www.ispd.cc/contests/05/contest.htm)
+  
+  *Dengwei Zhao, Shuai Yuan, Yanan Sun, Shikui Tu, Lei Xu.*
 
 ### [Placement and Routing](#content)
 
@@ -178,17 +178,17 @@ Please note, the following list is just a collection of papers in no particular 
 
     *Anthony Agnesina, Sai Pentapati, Sung Kyu Lim.* 
 
-- **A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction.** Design Automation Conference (DAC), 2022. [paper](https://dl.acm.org/doi/10.1145/3489517.3530597)
+- **A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction.** Design Automation Conference (DAC), 2022. [paper.](https://dl.acm.org/doi/10.1145/3489517.3530597) [code.](https://github.com/TimingPredict/TimingPredict) [dataset.](https://github.com/TimingPredict/Dataset)
 
-    *Zizheng Guo, Mingjie Liu, Jiaqi Gu, Shuhan Zhang, David Z. Pan, Yibo Lin.* 
+    *Zizheng Guo, Mingjie Liu, Jiaqi Gu, Shuhan Zhang, David Z. Pan, Yibo Lin.*
 
 - **Pin Accessibility and Routing Congestion Aware DRC Hotspot Prediction Using Graph Neural Network and U-Net.** International Conference on Computer-Aided Design (ICCAD), 2022. [paper](https://dl.acm.org/doi/10.1145/3508352.3549346)
 
     *Kyeonghyeon Baek, Hyunbum Park, Suwan Kim, Kyumyung Choi, Taewhan Kim.* 
 
-- **On Joint Learning for Solving Placement and Routing in Chip Design.** Advances in Neural Information Processing Systems (NeurIPS), 2021. [paper](https://proceedings.neurips.cc/paper/2021/file/898aef0932f6aaecda27aba8e9903991-Paper.pdf)
+- **On Joint Learning for Solving Placement and Routing in Chip Design.** Advances in Neural Information Processing Systems (NeurIPS), 2021. [paper.](https://proceedings.neurips.cc/paper/2021/file/898aef0932f6aaecda27aba8e9903991-Paper.pdf) [code.](https://github.com/Thinklab-SJTU/EDA-AI/tree/main/DeepPlace) [dataset.](https://www.ispd.cc/contests/05/contest.htm)
 
-    *Ruoyu Cheng, Junchi Yan.* 
+    *Ruoyu Cheng, Junchi Yan.*
 
 - **A Learning-Based Algorithm for Early Floorplan With Flexible Blocks.** IEEE Asian Solid-State Circuits Conference (A-SSCC), 2022. [paper](https://ieeexplore.ieee.org/document/9980637)
 
@@ -215,9 +215,9 @@ Please note, the following list is just a collection of papers in no particular 
 
     *Yuyang Ye, Tinghuan Chen, Yifei Gao, Hao Yan, Bei Yu, Longxing Shi.* 
 
-- **SyncTREE: Fast Timing Analysis for Integrated Circuit Design through a Physics-Informed Tree-Based Graph Neural Network.** Advances in Neural Information Processing Systems (NeurIPS), 2024. [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/435e8fbbfc2c6072d4f3a5cb6e56a39a-Paper-Conference.pdf)
+- **SyncTREE: Fast Timing Analysis for Integrated Circuit Design through a Physics-Informed Tree-Based Graph Neural Network.** Advances in Neural Information Processing Systems (NeurIPS), 2024. [paper.](https://proceedings.neurips.cc/paper_files/paper/2023/file/435e8fbbfc2c6072d4f3a5cb6e56a39a-Paper-Conference.pdf) [code.](https://github.com/xlab-ub/SyncTree) [dataset 1.](https://drive.google.com/file/d/1TEux9yTVc2--zC-__4qbd2MJQJdSGzof/view?usp=drive_link) [dataset 2.](https://drive.google.com/file/d/1S4g8cYjFqOTxjGYRjzYCJIor5_4Bvlss/view?usp=sharing)
 
-    *Yuting Hu, Jiajie Li, Florian Klemme, Gi-Joon Nam, Tengfei Ma, Hussam Amrouch, Jinjun Xiong.* 
+    *Yuting Hu, Jiajie Li, Florian Klemme, Gi-Joon Nam, Tengfei Ma, Hussam Amrouch, Jinjun Xiong.*
 
 ### [Verification and Testing](#content)
 
@@ -229,9 +229,9 @@ Please note, the following list is just a collection of papers in no particular 
 
     *Y. Ma, H. Ren, B. Khailany, H. Sikka, L. Luo, K. Natarajan, B. Yu.* 
 
-- **DeepTPI: Test Point Insertion with Deep Reinforcement Learning.** IEEE International Test Conference (ITC), 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9983950)
+- **DeepTPI: Test Point Insertion with Deep Reinforcement Learning.** IEEE International Test Conference (ITC), 2022. [paper.](https://ieeexplore.ieee.org/abstract/document/9983950) [code.](https://github.com/zshi0616/DeepTPI) [dataset.](https://github.com/zshi0616/DeepTPI/tree/main/data/ITC22_dataset)
 
-    *Zhengyuan Shi, Min Li, Sadaf Khan, Liuzheng Wang, Naixing Wang, Yu Huang.* 
+    *Zhengyuan Shi, Min Li, Sadaf Khan, Liuzheng Wang, Naixing Wang, Yu Huang.*
 
 - **RC-GNN: Fast and Accurate Signoff Wire Delay Estimation with Customized Graph Neural Networks.** IEEE 5th International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2023. [paper](https://ieeexplore.ieee.org/document/10168562/)
 
@@ -246,9 +246,9 @@ Please note, the following list is just a collection of papers in no particular 
     *Hongfei Wang, Ziqiang Zhang, Hongcan Xiong, Dongmian Zou, Yu Chen, Hai Jin.* 
 
 ### [Analog, Mixed Signal, and Transistor Design](#content)
-- **Circuit-GNN: Graph Neural Networks for Distributed Circuit Design.** International Conference on Machine Learning (ICML), 2019. [paper](https://proceedings.mlr.press/v97/zhang19e.html)
-
-    *Guo Zhang, Hao He, Dina Katabi.* 
+- **Circuit-GNN: Graph Neural Networks for Distributed Circuit Design.** International Conference on Machine Learning (ICML), 2019. [paper.](https://proceedings.mlr.press/v97/zhang19e.html) [code.](https://github.com/hehaodele/circuit-gnn) [dataset.](http://circuit-gnn.csail.mit.edu/data.zip)
+  
+  *Guo Zhang, Hao He, Dina Katabi.*
 
 - **ParaGraph: Layout Parasitics and Device Parameter Prediction using Graph Neural Networks.** Design Automation Conference (DAC), 2020. [paper](https://ieeexplore.ieee.org/document/9218515)
 
@@ -262,9 +262,9 @@ Please note, the following list is just a collection of papers in no particular 
 
     *Hao Chen, Keren Zhu, Mingjie Liu, Xiyuan Tang, Nan Sun, David Z. Pan.* 
 
-- **CktGNN: Circuit Graph Neural Network for Electronic Design Automation.** International Conference on Learning Representations (ICLR), 2023. [paper](https://openreview.net/forum?id=NE2911Kq1sp)
+- **CktGNN: Circuit Graph Neural Network for Electronic Design Automation.** International Conference on Learning Representations (ICLR), 2023. [paper.](https://openreview.net/forum?id=NE2911Kq1sp) [code.](https://github.com/zehao-dong/CktGNN) [dataset 1.](https://github.com/zehao-dong/CktGNN/tree/main/OCB/CktBench101) [dataset 2.](https://github.com/zehao-dong/CktGNN/tree/main/OCB/CktBench301)
 
-    *Zehao Dong, Weidong Cao, Muhan Zhang, Dacheng Tao, Yixin Chen, Xuan Zhang.* 
+    *Zehao Dong, Weidong Cao, Muhan Zhang, Dacheng Tao, Yixin Chen, Xuan Zhang.*
 
 - **Graph of Circuits with GNN for Exploring the Optimal Design Space.** Advances in Neural Information Processing Systems (NeurIPS), 2024. [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/12da92b7c64176eb6eb6ad0ae31554fd-Paper-Conference.pdf)
 
@@ -276,16 +276,17 @@ Please note, the following list is just a collection of papers in no particular 
 
 ### [Circuit Design Completion](#content)
 
-- **Circuit Design Completion Using Graph Neural Networks.** Neural Computing and Applications, 2023. [paper](https://link.springer.com/article/10.1007/s00521-023-08346-x)
+- **Circuit Design Completion Using Graph Neural Networks.** Neural Computing and Applications, 2023. [paper.](https://link.springer.com/article/10.1007/s00521-023-08346-x) [code.](https://github.com/Anwar-Said/Circuit-Completion-Using-GNNs) [dataset.](https://github.com/symbench/spice-datasets)
 
-    *Anwar Said, Mudassir Shabbir, Brian Broll, Waseem Abbas, Peter Völgyesi, Xenofon Koutsoukos.* 
+  *Anwar Said, Mudassir Shabbir, Brian Broll, Waseem Abbas, Peter Völgyesi, Xenofon Koutsoukos.*
+
 
 ## [GNNs for Hardware Reliability](#content)
 ### [Aging Delay Prediction](#content)
 
-- **GNN4REL: Graph Neural Networks for Predicting Circuit Reliability Degradation.** IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022. [paper](https://ieeexplore.ieee.org/document/9852805/)
+- **GNN4REL: Graph Neural Networks for Predicting Circuit Reliability Degradation.** IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2022. [paper.](https://ieeexplore.ieee.org/document/9852805/) [code.](https://github.com/lilasrahis/GNN4REL)
 
-    *Lilas Alrahis, Johann Knechtel, Florian Klemme, Hussam Amrouch, Ozgur Sinanoglu.* 
+  *Lilas Alrahis, Johann Knechtel, Florian Klemme, Hussam Amrouch, Ozgur Sinanoglu.*
 
 - **Analog IC Aging-Induced Degradation Estimation via Heterogeneous Graph Convolutional Networks.** Asia and South Pacific Design Automation Conference (ASP-DAC), 2021. [paper](https://dl.acm.org/doi/10.1145/3394885.3431546)
 
@@ -321,22 +322,23 @@ Please note, the following list is just a collection of papers in no particular 
 
     *Zulin Xu.* 
 
-- **On the Prediction of Hardware Security Properties of HLS Designs Using Graph Neural Networks.** IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFT), 2023. [paper](https://ieeexplore.ieee.org/document/10313544/)
+- **On the Prediction of Hardware Security Properties of HLS Designs Using Graph Neural Networks.** IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFT), 2023. [paper.](https://ieeexplore.ieee.org/document/10313544/) [code.](https://github.com/unipieslab/SecureHLS)
 
-    *Amalia-Artemis Koufopoulou, Athanasios Papadimitriou, Aggelos Pikrakis, Mihalis Psarakis, David Hely.* 
+    *Amalia-Artemis Koufopoulou, Athanasios Papadimitriou, Aggelos Pikrakis, Mihalis Psarakis, David Hely.*
+
 
 ## [GNNs for Hardware Security](#content)
 ### [HT Detection](#content)
 
-- **GNN4TJ: Graph Neural Networks for Hardware Trojan Detection at Register Transfer Level.** Design, Automation & Test in Europe Conference & Exhibition (DATE), 2021. [paper](https://ieeexplore.ieee.org/document/9474174/)
+- **GNN4TJ: Graph Neural Networks for Hardware Trojan Detection at Register Transfer Level.** Design, Automation & Test in Europe Conference & Exhibition (DATE), 2021. [paper.](https://ieeexplore.ieee.org/document/9474174/)
 
-    *Rozhin Yasaei, Shih-Yuan Yu, Mohammad Abdullah Al Faruque.* 
+  *Rozhin Yasaei, Shih-Yuan Yu, Mohammad Abdullah Al Faruque.*
 
 - **Hardware Trojan Detection Using Graph Neural Networks.** IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022. [paper](https://dl.acm.org/doi/10.1109/TCAD.2022.3178355)
 
     *Rozhin Yasaei, Luke Chen, Shih-Yuan Yu, Mohammad Abdullah Al Faruque.* 
 
-- **HW2VEC: A Graph Learning Tool for Automating Hardware Security.** IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2021. [paper](https://ieeexplore.ieee.org/document/9702281/)
+- **HW2VEC: A Graph Learning Tool for Automating Hardware Security.** IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2021. [paper.](https://ieeexplore.ieee.org/document/9702281/) [code.](https://github.com/aicps/hw2vec)
 
     *Shih-Yuan Yu, Rozhin Yasaei, Qingrong Zhou, Tommy Nguyen, Mohammad Abdullah Al Faruque.* 
 
@@ -374,11 +376,11 @@ Please note, the following list is just a collection of papers in no particular 
 
 ### [Piracy Detection](#content)
 
-- **GNN4IP: Graph Neural Network for Hardware Intellectual Property Piracy Detection.** Design Automation Conference (DAC), 2021. [paper](https://ieeexplore.ieee.org/document/9586150/)
+- **GNN4IP: Graph Neural Network for Hardware Intellectual Property Piracy Detection.** Design Automation Conference (DAC), 2021. [paper.](https://ieeexplore.ieee.org/document/9586150/) [code.](https://github.com/sushi-aa/hw2vec)
 
     *Rozhin Yasaei, Shih-Yuan Yu, Emad Kasaeyan Naeini, Mohammad Abdullah Al Faruque.* 
 
-- **HW2VEC: A Graph Learning Tool for Automating Hardware Security.** IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2021. [paper](https://ieeexplore.ieee.org/document/9702281)
+- **HW2VEC: A Graph Learning Tool for Automating Hardware Security.** IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2021. [paper.](https://ieeexplore.ieee.org/document/9702281) [code.](https://github.com/sushi-aa/hw2vec)
 
     *Shih-Yuan Yu, Rozhin Yasaei, Qingrong Zhou, Tommy Nguyen, Mohammad Abdullah Al Faruque.* 
 
@@ -392,27 +394,27 @@ Please note, the following list is just a collection of papers in no particular 
 
 ### [Functional Reverse Engineering](#content)
 
-- **GNN-RE: Graph Neural Networks for Reverse Engineering of Gate-Level Netlists.** IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022. [paper](https://ieeexplore.ieee.org/document/9530566/)
+- **GNN-RE: Graph Neural Networks for Reverse Engineering of Gate-Level Netlists.** IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022. [paper.](https://ieeexplore.ieee.org/document/9530566/) [code.](https://github.com/DfX-NYUAD/GNN-RE) [dataset 1.](https://github.com/DfX-NYUAD/GNN-RE/raw/main/Netlist_to_graph.zip) [dataset 2.](https://github.com/DfX-NYUAD/GNN-RE/raw/main/RTL_Dataset.zip)
 
-    *Lilas Alrahis, Abhrajit Sengupta, Johann Knechtel, Satwik Patnaik, Hani Saleh, Baker Mohammad, Mahmoud Al-Qutayri, Ozgur Sinanoglu.* 
+  *Lilas Alrahis, Abhrajit Sengupta, Johann Knechtel, Satwik Patnaik, Hani Saleh, Baker Mohammad, Mahmoud Al-Qutayri, Ozgur Sinanoglu.*
 
-- **Gamora: Graph Learning-Based Symbolic Reasoning for Large-Scale Boolean Networks.** IEEE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10247828)
+- **Gamora: Graph Learning-Based Symbolic Reasoning for Large-Scale Boolean Networks.** IEEE, 2023. [paper.](https://ieeexplore.ieee.org/document/10247828/) [code.](https://github.com/Yu-Maryland/Gamora) [dataset.](https://huggingface.co/datasets/yucx0626/Gamora-CSA-Multiplier/tree/main)
 
-    *Nan Wu, Yingjie Li, Cong Hao, Steve Dai, Cunxi Yu, Yuan Xie.* 
+  *Nan Wu, Yingjie Li, Cong Hao, Steve Dai, Cunxi Yu, Yuan Xie.*
 
-- **DepthGraphNet: Circuit Graph Isomorphism Detection via Siamese-Graph Neural Networks.** ACM/IEEE 5th Workshop on Machine Learning for CAD (MLCAD), 2023. [paper](https://ieeexplore.ieee.org/document/10299839)
+- **DepthGraphNet: Circuit Graph Isomorphism Detection via Siamese-Graph Neural Networks.** ACM/IEEE 5th Workshop on Machine Learning for CAD (MLCAD), 2023. [paper.](https://ieeexplore.ieee.org/document/10299839/) [code.](https://github.com/FinAminToastCrunch/DepthGraphNet) [dataset.](https://drive.google.com/drive/folders/1PIF7fRZj44ABROP28tgva8F5LkDaP0zb?usp=sharing)
 
-    *Fin Amin, Soumyadeep Chatterjee, Paul D. Franzon.* 
+  *Fin Amin, Soumyadeep Chatterjee, Paul D. Franzon.*
 
-- **ReIGNN: State Register Identification Using Graph Neural Networks for Circuit Reverse Engineering.** International Conference on Computer-Aided Design (ICCAD), 2021. [paper](https://ieeexplore.ieee.org/document/9643498/)
+- **ReIGNN: State Register Identification Using Graph Neural Networks for Circuit Reverse Engineering.** International Conference on Computer-Aided Design (ICCAD), 2021. [paper.](https://ieeexplore.ieee.org/document/9643498/) [code.](https://github.com/SubhajitDuttaChowdhury/ReIGNN) [dataset.](https://github.com/SubhajitDuttaChowdhury/ReIGNN/tree/master/dataset)
 
-    *Subhajit Dutta Chowdhury, Kaixin Yang, Pierluigi Nuzzo.* 
+  *Subhajit Dutta Chowdhury, Kaixin Yang, Pierluigi Nuzzo.*
 
-- **Graph Learning-Based Arithmetic Block Identification.** International Conference on Computer-Aided Design (ICCAD), 2021. [paper](https://ieeexplore.ieee.org/document/9643581/)
+- **Graph Learning-Based Arithmetic Block Identification.** International Conference on Computer-Aided Design (ICCAD), 2021. [paper.](https://ieeexplore.ieee.org/document/9643581/) [dataset 1.](https://github.com/riscv-boom/riscv-boom) [dataset 2.](https://github.com/chipsalliance/rocket-chip) 
 
     *Zhuolun He, Ziyi Wang, Chen Bai, Haoyu Yang, Bei Yu.* 
 
-- **Functionality Matters in Netlist Representation Learning.** Design Automation Conference (DAC), 2022. [paper](https://dl.acm.org/doi/10.1145/3489517.3530410)
+- **Functionality Matters in Netlist Representation Learning.** Design Automation Conference (DAC), 2022. [paper.](https://dl.acm.org/doi/10.1145/3489517.3530410) [code.](https://github.com/ZeayW/FGNN2) [dataset 1.](https://github.com/FGNN2/FGNN2_pretraindata)
 
     *Ziyi Wang, Chen Bai, Zhuolun He, Guangliang Zhang, Qiang Xu, Tsung-Yi Ho, Bei Yu, Yu Huang.* 
 
@@ -424,27 +426,27 @@ Please note, the following list is just a collection of papers in no particular 
 
     *Guangwei Zhao, Kaveh Shamsi.* 
 
-- **AppGNN: Approximation-Aware Functional Reverse Engineering Using Graph Neural Networks.** International Conference on Computer-Aided Design (ICCAD), 2022. [paper](https://dl.acm.org/doi/10.1145/3508352.3549471)
-
+- **AppGNN: Approximation-Aware Functional Reverse Engineering Using Graph Neural Networks.** International Conference on Computer-Aided Design (ICCAD), 2022. [paper.](https://dl.acm.org/doi/10.1145/3508352.3549471) [code.](https://github.com/ML-CAD/AppGNN)
+  
     *Tim Bücher, Lilas Alrahis, Guilherme Paim, Sergio Bampi, Ozgur Sinanoglu, Hussam Amrouch.* 
 
-- **GANA: Graph Convolutional Network-Based Automated Netlist Annotation for Analog Circuits.** Design, Automation & Test in Europe Conference & Exhibition (DATE), 2020. [paper](https://ieeexplore.ieee.org/document/9116329/)
+- **GANA: Graph Convolutional Network-Based Automated Netlist Annotation for Analog Circuits.** Design, Automation & Test in Europe Conference & Exhibition (DATE), 2020. [paper.](https://ieeexplore.ieee.org/document/9116329/) [code.](https://github.com/kkunal1408/GANA_circuit_data) [dataset.](https://github.com/kkunal1408/GANA_circuit_data/raw/master/circuit_data/OTA_data/spice.zip)
 
     *Kishor Kunal, Tonmoy Dhar, Meghna Madhusudan, Jitesh Poojary, Arvind Sharma, Wenbin Xu, Steven M. Burns, Jiang Hu, Ramesh Harjani, Sachin S. Sapatnekar.*
   
 ### [Attacks on Design-for-Trust Methods](#content)
 
 #### [Key Leakage](#key-leakage)
-- **OMLA: An Oracle-Less Machine Learning-Based Attack on Logic Locking.** IEEE Transactions on Circuits and Systems II (TCAS-II), 2022. [paper](https://ieeexplore.ieee.org/document/9539868)
+- **OMLA: An Oracle-less Machine Learning-based Attack on Logic Locking.** IEEE Transactions on Circuits and Systems II: Express Briefs, 2022. [paper.](https://ieeexplore.ieee.org/document/9539868/) [code.](https://github.com/DfX-NYUAD/OMLA) [dataset.](https://github.com/DfX-NYUAD/OMLA/tree/main/circuit_datasets)
 
     *Lilas Alrahis, Satwik Patnaik, Muhammad Shafique, Ozgur Sinanoglu.* 
 
 #### [Link Formation](#link-formation)
-- **MuxLink: Circumventing Learning-Resilient MUX-Locking Using Graph Neural Network-Based Link Prediction.** Design, Automation & Test in Europe Conference & Exhibition (DATE), 2022. [paper](https://ieeexplore.ieee.org/document/9774603/)
+- **MuxLink: Circumventing Learning-Resilient MUX-Locking Using Graph Neural Network-Based Link Prediction.** Design, Automation & Test in Europe Conference & Exhibition (DATE), 2022. [paper.](https://ieeexplore.ieee.org/document/9774603/) [code.](https://github.com/lilasrahis/MuxLink)
 
     *Lilas Alrahis, Satwik Patnaik, Muhammad Shafique, Ozgur Sinanoglu.* 
 
-- **UNTANGLE: Unlocking Routing and Logic Obfuscation Using Graph Neural Networks-Based Link Prediction.** International Conference on Computer-Aided Design (ICCAD), 2021. [paper](https://ieeexplore.ieee.org/document/9643476/)
+- **UNTANGLE: Unlocking Routing and Logic Obfuscation Using Graph Neural Networks-based Link Prediction.** International Conference on Computer-Aided Design (ICCAD), 2021. [paper.](https://ieeexplore.ieee.org/document/9643476/) [code.](https://github.com/lilasrahis/UNTANGLE) [dataset 1.](https://github.com/ispras/hdl-benchmarks/tree/master/iscas85) [dataset 2.](https://github.com/cad-polito-it/I99T)
 
     *Lilas Alrahis, Satwik Patnaik, Muhammad Abdullah Hanif, Muhammad Shafique, Ozgur Sinanoglu.* 
 
@@ -453,7 +455,7 @@ Please note, the following list is just a collection of papers in no particular 
 
     *Dominik Sisejkovic, Farhad Merchant, Lennart M. Reimann, Rainer Leupers.* 
 
-- **SCOPE: Synthesis-Based Constant Propagation Attack on Logic Locking.** IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI), 2021. [paper](https://ieeexplore.ieee.org/document/9466931/)
+- **SCOPE: Synthesis-Based Constant Propagation Attack on Logic Locking.** IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI), 2021. [paper.](https://ieeexplore.ieee.org/document/9466931/) [code.](https://github.com/alaql89/SCOPE)
 
     *Abdulrahman Alaql, Md Moshiur Rahman, Swarup Bhunia.* 
 
@@ -462,7 +464,7 @@ Please note, the following list is just a collection of papers in no particular 
     *Hadi Mardani Kamali, Kimia Zamiri Azar, Houman Homayoun, Avesta Sasan.* 
 
 #### [Attack Scalability](#attack-scalability)
-- **Titan: Security Analysis of Large-Scale Hardware Obfuscation Using Graph Neural Networks.** IEEE Transactions on Information Forensics and Security (TIFS), 2022. [paper](https://ieeexplore.ieee.org/document/9933482)
+- **Titan: Security Analysis of Large-Scale Hardware Obfuscation Using Graph Neural Networks.** IEEE Transactions on Information Forensics and Security (TIFS), 2022. [paper.](https://ieeexplore.ieee.org/document/9933482) [dataset.](https://github.com/cad-polito-it/I99T)
 
     *Likhitha Mankali, Lilas Alrahis, Satwik Patnaik, Johann Knechtel, Ozgur Sinanoglu.* 
 
@@ -470,7 +472,7 @@ Please note, the following list is just a collection of papers in no particular 
 
     *Lilas Alrahis, Likhitha Mankali, Satwik Patnaik, Abhrajit Sengupta, Johann Knechtel, Ozgur Sinanoglu.* 
 
-- **GNNUnlock: Graph Neural Networks-Based Oracle-Less Unlocking Scheme for Provably Secure Logic Locking.** Design, Automation & Test in Europe Conference & Exhibition (DATE), 2021. [paper](https://ieeexplore.ieee.org/document/9474039/)
+- **GNNUnlock: Graph Neural Networks-Based Oracle-Less Unlocking Scheme for Provably Secure Logic Locking.** Design, Automation & Test in Europe Conference & Exhibition (DATE), 2021. [paper.](https://ieeexplore.ieee.org/document/9474039/) [code.](https://github.com/DfX-NYUAD/GNNUnlock) [dataset.](https://github.com/DfX-NYUAD/GNNUnlock/tree/main/Netlist_to_graph/Circuits_datasets)
 
     *Lilas Alrahis, Satwik Patnaik, Faiq Khalid, Muhammad Abdullah Hanif, Hani Saleh, Muhammad Shafique, Ozgur Sinanoglu.* 
 
