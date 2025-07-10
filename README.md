@@ -78,8 +78,6 @@ Please note, the following list is just a collection of papers in no particular 
 </table>
 
 ## [Common Datasets & Benchmarks](#content)
-  * ISPD contest series (2005, 2011, etc): provides netlists and floorplans for placement, routing and timing challenges. Official site: [https://www.ispd.cc/contests/](https://www.ispd.cc/contests/)
-* ISCAS’85 benchmarks: standard set of combinational and sequential netlists for logic synthesis and test-pattern generation. Official archive: [http://www.cbl.ncsu.edu:16080/benchmarks/ISCAS85/](http://www.cbl.ncsu.edu:16080/benchmarks/ISCAS85/)
 * I99T obfuscation benchmarks: large obfuscated netlists for logic locking and split-manufacturing research. Official repository: [https://github.com/cad-polito-it/I99T](https://github.com/cad-polito-it/I99T)
 * EPFL combinational benchmark suite: 23 combinational circuits designed to challenge logic optimization tools across arithmetic, random/control and MtM categories. Official site: [https://www.epfl.ch/labs/lsi/page-102566-en-html/benchmarks/](https://www.epfl.ch/labs/lsi/page-102566-en-html/benchmarks/)
 * TrustHub hardware Trojan benchmarks: collection of infected and golden circuits for Trojan detection and localization. Official site: [https://trust-hub.org/](https://trust-hub.org/)
