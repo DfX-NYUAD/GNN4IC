@@ -8,6 +8,7 @@ Please note, the following list is just a collection of papers in no particular 
 ## [Content](#content)
 
 <table>
+<tr><td colspan="2"><a href="#common-datasets--benchmarks">0. Common Datasets/Benchmarks</a></td></tr>
 <tr><td colspan="2"><a href="#gnns-for-eda">1. GNNs for EDA</a></td></tr>
 <tr>
     <td>&ensp;<a href="#behavioral-and-logic-design">1.1 Behavioral and Logic Design</a></td>
@@ -75,6 +76,13 @@ Please note, the following list is just a collection of papers in no particular 
     <td>&ensp;&ensp;<a href="#attack-sensitivity">3.4.5 Attack Sensitivity</a></td>
 </tr>
 </table>
+
+## [Common Datasets & Benchmarks](#content)
+  * ISPD contest series (2005, 2011, etc): provides netlists and floorplans for placement, routing and timing challenges. Official site: [https://www.ispd.cc/contests/](https://www.ispd.cc/contests/)
+* ISCAS’85 benchmarks: standard set of combinational and sequential netlists for logic synthesis and test-pattern generation. Official archive: [http://www.cbl.ncsu.edu:16080/benchmarks/ISCAS85/](http://www.cbl.ncsu.edu:16080/benchmarks/ISCAS85/)
+* I99T obfuscation benchmarks: large obfuscated netlists for logic locking and split-manufacturing research. Official repository: [https://github.com/cad-polito-it/I99T](https://github.com/cad-polito-it/I99T)
+* EPFL combinational benchmark suite: 23 combinational circuits designed to challenge logic optimization tools across arithmetic, random/control and MtM categories. Official site: [https://www.epfl.ch/labs/lsi/page-102566-en-html/benchmarks/](https://www.epfl.ch/labs/lsi/page-102566-en-html/benchmarks/)
+* TrustHub hardware Trojan benchmarks: collection of infected and golden circuits for Trojan detection and localization. Official site: [https://trust-hub.org/](https://trust-hub.org/)
 
 ## [GNNs for EDA](#content)
 ### [Behavioral and Logic Design](#content)
@@ -483,4 +491,4 @@ Please note, the following list is just a collection of papers in no particular 
 #### [Attack Sensitivity](#attack-sensitivity)
 - **NetlistGNN: Characterizing the Ability of GNNs in Attacking Logic Locking.** ACM/IEEE 5th Workshop on Machine Learning for CAD (MLCAD), 2023. [paper](https://ieeexplore.ieee.org/document/10299817)
 
-    *Wei Li, Ruben Purdy, José M. F. Moura, R.D. Blanton.* 
+    *Wei Li, Ruben Purdy, José M. F. Moura, R.D. Blanton.*
